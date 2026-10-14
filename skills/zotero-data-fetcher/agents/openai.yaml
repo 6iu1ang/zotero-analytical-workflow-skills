@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zotero 原始材料获取"
+  short_description: "只读确认论文身份、元数据、PDF 附件及批注，为单篇与批量精读准备材料"
+  default_prompt: "用 $zotero-data-fetcher 获取我指定论文的 Zotero 元数据和原始 PDF 入口。"

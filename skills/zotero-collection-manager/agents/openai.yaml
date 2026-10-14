@@ -1,0 +1,4 @@
+interface:
+  display_name: "批量论文精读"
+  short_description: "对指定 Zotero 集合逐篇精读，维护覆盖清单、断点状态与逐篇核验记录"
+  default_prompt: "用 $zotero-collection-manager 批量精读我指定的 Zotero 集合，复用有效笔记并报告每篇处理结果。"

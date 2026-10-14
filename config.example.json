@@ -1,0 +1,7 @@
+{
+  "vault_root": "./local/vault",
+  "zotero_data_dir": "./local/zotero",
+  "zotero_api_base": "http://127.0.0.1:23119/api/users/0",
+  "work_dir": "./local/work",
+  "process_log": "./local/work/process-log.jsonl"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "研究知识维护"
+  short_description: "从已精读笔记与原始 PDF 维护可追溯的跨论文知识，并保留条件和分歧"
+  default_prompt: "用 $research-vault-knowledge-maintainer 检查现有精读笔记，更新有证据支持的知识或记录无需修改。"

@@ -1,0 +1,10 @@
+config.json
+local/
+.validation/
+dist/
+__pycache__/
+*.py[cod]
+.venv/
+*.pdf
+*.sqlite*
+*.jsonl

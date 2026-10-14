@@ -1,0 +1,4 @@
+interface:
+  display_name: "单篇论文精读"
+  short_description: "从 Zotero 原始 PDF 建立有引语、页码与来源核验的中文精读笔记"
+  default_prompt: "用 $research-vault-ingest-orchestrator 精读 Zotero 中我指定的论文，按 Vault 模板写笔记并核验原文。"
